@@ -13,3 +13,7 @@ This is a sample web project, deployment and be on any web server.
 ## Test
 
 This is a test.
+
+### Copyright
+
+2019 Git.Training
