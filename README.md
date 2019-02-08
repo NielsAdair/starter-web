@@ -20,4 +20,4 @@ This is a test.
 
 ### Copyright
 
-2019 Git.Training
+2019 Git.Training.  All rights reservered
