@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Niels Adair		niels.adair@gmail.com  @niels.adair
 
 # THANKS
 
